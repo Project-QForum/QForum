@@ -16,7 +16,7 @@ It runs on the server side, communicates directly with MySQL, and is responsible
 
 > This part does not currently accept third-party core applications to add.
 
-[QForum - Core](https://github.com/JackuXL/QForum-Core) | Author： JackuXL<sup>Official</sup>
+[QForum - Core](https://github.com/JackuXL/QForum-Core)<sup>Official</sup>
 
 ### Front End
 
@@ -26,7 +26,7 @@ Docking the core part and interacting with users.（Web）
 
 > You can apply to add your theme through PR or contact us. Applications for docking with third-party cores are not accepted.
 
-[QForum - MaterialTheme](https://github.com/JackuXL/QForum-MaterialTheme) | Author： JackuXL<sup>Official</sup>
+[QForum - MaterialTheme](https://github.com/JackuXL/QForum-MaterialTheme)<sup>Official</sup>
 
 #### Theme
 
