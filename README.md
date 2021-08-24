@@ -18,7 +18,7 @@ QForum 是一个轻量级的论坛系统。
 
 > 该部分暂不接受第三方核心的申请添加。
 
-[QForum - Core](https://github.com/JackuXL/QForum-Core) | 作者： JackuXL<sup>官方</sup>
+[QForum - Core](https://github.com/JackuXL/QForum-Core)<sup>官方</sup>
 
 ### 前端
 
@@ -28,7 +28,7 @@ QForum 是一个轻量级的论坛系统。
 
 > 您可以通过 PR 或联系我们来申请添加您制作的主题，不接受对接第三方核心的申请。
 
-[QForum - MaterialTheme](https://github.com/JackuXL/QForum-MaterialTheme) | 作者： JackuXL<sup>官方</sup>
+[QForum - MaterialTheme](https://github.com/JackuXL/QForum-MaterialTheme)<sup>官方</sup>
 
 #### 应用程序
 
