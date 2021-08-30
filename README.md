@@ -1,6 +1,6 @@
 # QForum
 
-🌏[简体中文](https://github.com/JackuXL/QForum/blob/main/README.md) | English
+🌏English | [简体中文](https://github.com/JackuXL/QForum/blob/main/README.zh-CN.md)
 
 QForum is a Lightweight Forum System.
 
