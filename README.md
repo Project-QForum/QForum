@@ -28,7 +28,7 @@ Docking the core part and interacting with users.（Web）
 
 [QForum - MaterialTheme](https://github.com/JackuXL/QForum-MaterialTheme)<sup>Official</sup>
 
-#### Theme
+#### Application
 
 Docking the core part and interacting with users.（OS）
 
